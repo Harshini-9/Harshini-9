@@ -27,3 +27,5 @@ Designed and implemented a database system for a music streaming platform using 
 Developed a Java-based application using OOP
  principles and JavaFX to help artists efficiently track their revenue across multiple streaming platforms. The system provides financial insights by aggregating earnings data, enabling better financial decision-making
 
+- [Indian Sign Language Recognition System](https://github.com/Harshini-9/Indian-Sign-Language-Detection/tree/main)
+Developed a machine learning-based system for recognizing Indian Sign Language (ISL) using computer vision and SVM classification. The project involved data collection, feature extraction (SURF), and model training to classify hand gestures with high accuracy. Implemented using OpenCV.
