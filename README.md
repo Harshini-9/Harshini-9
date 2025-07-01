@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🚀 **AI/ML** Engineer | Data Science Enthusiast | Marketing Researcher
+
 📊 **Aspiring Data Scientist** | Turning raw data into actionable insights
+
 🛠️ **Skills:** Excel • Power BI • SQL • Python (Pandas, Matplotlib) | JAVA | Machine Learing | Neural networks
 
 # Featured Projects
