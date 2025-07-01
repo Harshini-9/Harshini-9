@@ -29,3 +29,6 @@ Developed a Java-based application using OOP
 
 - [Indian Sign Language Recognition System](https://github.com/Harshini-9/Indian-Sign-Language-Detection/tree/main)
 Developed a machine learning-based system for recognizing Indian Sign Language (ISL) using computer vision and SVM classification. The project involved data collection, feature extraction (SURF), and model training to classify hand gestures with high accuracy. Implemented using OpenCV.
+
+- [YouTube Recommendation System](https://github.com/Harshini-9/YouTube-Recommendation-System)
+Comprehensive implementation of a YouTube Video Recommendation System that demonstrates multiple recommendation approaches using synthetic data. The system combines collaborative filtering, content-based filtering, and matrix factorization techniques to provide personalized video recommendations.
