@@ -1,4 +1,4 @@
-## 👋Hi there! I'm Sai Harshini
+## 👋Hi there! I'm Harshini
 
 <!--
 **Harshini-9/Harshini-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
