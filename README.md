@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 **AI/ML** Engineer | Data Science Enthusiast | Marketing Researcher
 
-📊 **Aspiring Data Scientist** | Turning raw data into actionable insights
-
-🛠️ **Skills:** Excel | Power BI | SQL | Python | JAVA | Machine Learing | Neural networks | Computer Vision
 
 # Featured Projects
 - [Music-Streaming-SQL-Database](https://github.com/Harshini-9/Music-Streaming-SQL-Database)
